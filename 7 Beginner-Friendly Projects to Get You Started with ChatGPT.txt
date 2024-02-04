@@ -1,0 +1,7 @@
+1. Generate a language translator using the OpenAI API
+2. Use ChatGPT to build a sentiment analysis AI system for your business
+3. Basic usage of LangChain and OpenAI
+4. Automating PDF Interaction with LangChain and ChatGPT
+5. Building up a Resume parser with ChatGPT
+6. Generating a simple chatbot using OpenAI API
+7. An End-to-End Data Science Project with ChatGPT
